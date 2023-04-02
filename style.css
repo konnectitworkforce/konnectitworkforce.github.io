@@ -4151,3 +4151,8 @@ text-align: right;
     margin: auto;
     text-align: center;
  }
+
+ .footer_logo{
+    background-color: #fff;
+    padding: 10px;
+ }
